@@ -4,6 +4,5 @@ claim_pattern:
   job_workflow_ref: xnox/rules_apko/.github/workflows/release.yaml@refs/heads/main
 
 permissions:
-  attestations: write
   contents: write
   pull_requests: write
