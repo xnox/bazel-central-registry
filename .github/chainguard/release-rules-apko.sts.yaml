@@ -1,7 +1,7 @@
 issuer: https://token.actions.githubusercontent.com
-subject: repo:chainguard-dev/rules_apko:ref:refs/heads/main
+subject: repo:xnox/rules_apko:ref:refs/heads/main
 claim_pattern:
-  workflow_ref: chainguard-dev/rules_apko/.github/workflows/release.yaml@refs/heads/main
+  workflow_ref: xnox/rules_apko/.github/workflows/release.yaml@refs/heads/main
 
 permissions:
   attestations: write
