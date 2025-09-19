@@ -1,0 +1,9 @@
+{
+    "integrity": "sha256-vZyR1gwnSBu7hB/Yh8S1F7Q7oma6sDFkvmu3vRRK3NM=",
+    "strip_prefix": "rules_apko-1.5.116",
+    "url": "https://github.com/xnox/rules_apko/releases/download/v1.5.116/rules_apko-v1.5.116.tar.gz",
+    "patches": {
+        "module_dot_bazel_version.patch": "sha256-JV6ZHie/qu6I3KAP4I/8FaSs/exHg6h5ESUYXHT4jRU="
+    },
+    "patch_strip": 1
+}
